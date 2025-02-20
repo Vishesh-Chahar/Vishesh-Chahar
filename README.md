@@ -1,4 +1,4 @@
-# Hi, I'm Vishesh Chahar 👋 | AI/ML Engineer  
+# Hi, I'm Vishesh Chahar 👋 | Data Scientist | AI/ML Engineer  
 🚀 I specialize in **Machine Learning, NLP, and Data Engineering**
 
 - 🔬 Fine-tuned **LLMs (Llama, FLAN-T5, BERT)** for real-world AI solutions  
