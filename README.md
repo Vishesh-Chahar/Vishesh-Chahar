@@ -7,7 +7,7 @@
 - 🌎 Open-source contributor | Love solving AI challenges & scaling solutions  
 
 ## 🔗 Connect with Me  
-📩 [LinkedIn](https://www.linkedin.com/in/visheshchahar) | 📂 [Portfolio](#) | 🏆 [LeetCode](https://leetcode.com/vishesh_chahar/)
+📩 [LinkedIn](https://www.linkedin.com/in/visheshchahar) | 📂 [Portfolio](https://vishesh-chahar.github.io/) | 🏆 [LeetCode](https://leetcode.com/vishesh_chahar/)
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishesh-Chahar&show_icons=true&theme=dark)
