@@ -8,7 +8,7 @@
 
 ## 🔗 Connect with Me  
 📩 [LinkedIn](https://www.linkedin.com/in/visheshchahar) | 📂 [Portfolio](https://vishesh-chahar.github.io/) | 🏆 [LeetCode](https://leetcode.com/vishesh_chahar/)
-
+[RESUME}(/Resume_Vishesh_Chahar (5).pdf)
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishesh-Chahar&show_icons=true&theme=dark)
 
